@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cp ~/.zshrc ~/git/dotfiles/
+cp ~/.vimrc ~/git/dotfiles/
+cp ~/.p10k.zsh ~/git/dotfiles/
+cp ~/.bashrc ~/git/dotfiles/
