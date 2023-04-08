@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cp ~/.zshrc ~/git/dotfiles/
-cp ~/.vimrc ~/git/dotfiles/
-cp ~/.p10k.zsh ~/git/dotfiles/
-cp ~/.bashrc ~/git/dotfiles/
+REPO=~/git/dotfiles
+cp ~/.zshrc $REPO
+cp ~/.vimrc $REPO
+cp ~/.p10k.zsh $REPO
+cp ~/.bashrc $REPO
