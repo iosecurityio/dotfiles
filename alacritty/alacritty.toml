@@ -1,0 +1,16 @@
+# themes from https://github.com/alacritty/alacritty-theme
+
+import = [~/.config/alacritty/themes/themes/github_dark_high_contrast.yml"]
+
+[font]
+size = 25
+
+[font.normal]
+family = "MesloLGS NF"
+
+[window]
+decorations = "none"
+
+[window.padding]
+x = 7
+y = 0

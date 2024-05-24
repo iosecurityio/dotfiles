@@ -1,7 +1,0 @@
-#!/bin/bash
-
-REPO=~/git/dotfiles
-cp ~/.zshrc $REPO
-cp ~/.vimrc $REPO
-cp ~/.p10k.zsh $REPO
-cp ~/.bashrc $REPO
