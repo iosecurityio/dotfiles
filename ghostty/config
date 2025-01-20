@@ -1,0 +1,7 @@
+theme = tokyonight
+background-opacity = 0.9
+background-blur-radius = 10
+macos-titlebar-style = hidden
+font-size = 14
+window-padding-x = 4
+window-padding-y = 4
