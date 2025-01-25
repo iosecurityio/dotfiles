@@ -1,7 +1,11 @@
-theme = tokyonight
-background-opacity = 0.9
-background-blur-radius = 10
-macos-titlebar-style = hidden
+font-family = "Hack Nerd Font Mono"
 font-size = 14
-window-padding-x = 4
-window-padding-y = 4
+background-opacity = 0.9
+background-blur-radius = 50
+window-padding-x = 8
+window-padding-y = 8
+window-padding-balance = true
+window-decoration = true
+theme = "Banana Blueberry"
+window-save-state = default
+shell-integration = bash
